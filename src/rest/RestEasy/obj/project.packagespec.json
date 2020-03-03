@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/RestEasy.csproj",
+    "projectName": "RestEasy",
+    "projectPath": "/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/RestEasy.csproj",
+    "outputPath": "/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/RestEasy.Core.csproj": {
+            "projectPath": "/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/RestEasy.Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Logging": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3, )"
+        },
+        "System.Text.Json": {
+          "target": "Package",
+          "version": "[4.7.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

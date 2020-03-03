@@ -1,0 +1,22 @@
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.deps.json
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.dll
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.pdb
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.Core.dll
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.Core.pdb
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.csprojAssemblyReference.cache
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.AssemblyInfoInputs.cache
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.AssemblyInfo.cs
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.csproj.CopyComplete
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.dll
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.pdb
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.deps.json
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.dll
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.pdb
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.Core.dll
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/bin/Debug/netcoreapp3.1/RestEasy.Core.pdb
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.csprojAssemblyReference.cache
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.AssemblyInfoInputs.cache
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.AssemblyInfo.cs
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.csproj.CopyComplete
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.dll
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy/obj/Debug/netcoreapp3.1/RestEasy.pdb

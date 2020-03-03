@@ -1,0 +1,16 @@
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/bin/Debug/netcoreapp3.1/RestEasy.Core.deps.json
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/bin/Debug/netcoreapp3.1/RestEasy.Core.dll
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/bin/Debug/netcoreapp3.1/RestEasy.Core.pdb
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.csprojAssemblyReference.cache
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.AssemblyInfoInputs.cache
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.AssemblyInfo.cs
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.dll
+/Users/williammumby/Desktop/repos/RestEasy/src/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.pdb
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/bin/Debug/netcoreapp3.1/RestEasy.Core.deps.json
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/bin/Debug/netcoreapp3.1/RestEasy.Core.dll
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/bin/Debug/netcoreapp3.1/RestEasy.Core.pdb
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.csprojAssemblyReference.cache
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.AssemblyInfoInputs.cache
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.AssemblyInfo.cs
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.dll
+/Users/williammumby/Desktop/repos/Todo Flutter/src/rest/RestEasy.Core/obj/Debug/netcoreapp3.1/RestEasy.Core.pdb
